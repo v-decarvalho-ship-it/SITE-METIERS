@@ -1,0 +1,2 @@
+# ASSURER MON METIER
+Prototype statique. Lancer `python -m http.server 8000` dans ce dossier, puis ouvrir http://localhost:8000. Aucun paquet requis. 25 pages commerciales. Formulaires de demonstration uniquement. Avant production : valider contenus et mentions legales, configurer un service de messagerie serveur avec validation et anti-spam, tester les envois, confirmer domaine et offre Vercel commerciale, ajouter les logos autorises, retirer noindex et robots Disallow, ajouter sitemap et URL canoniques. Aucun deploiement effectue.
